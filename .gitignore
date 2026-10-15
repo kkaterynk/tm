@@ -34,3 +34,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#coverage
+/coverage
+
+#os files
+.DS_Store
+Thumbs.db
+
+#ide
+.idea/
+.vscode/
